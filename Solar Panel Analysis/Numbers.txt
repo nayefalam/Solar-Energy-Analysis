@@ -1,0 +1,25 @@
+Optimal Mounting Strategy for Urban vs. Rural Deployments
+The analysis will also factor in the Tilt (°) to find the optimal angle for each mounting type.
+Good for predictive modeling part of the project
+They can use this data to explain to a client why a specific mounting type and tilt angle is recommended for their location,
+   whether it's a constrained city rooftop or an open desert field.
+Insight for the Engineering team.
+
+2. KSA Regional Performance Benchmark
+This analysis will determine which solar panel type—Monocrystalline, Polycrystalline, or Thin-Film—performs best in different key cities (Riyadh, Jeddah, Dammam, etc.). We will correlate the Estimated Daily Output (kWh) with local Temperature and Solar Irradiance to create a performance ranking for each city.
+Good for Visualization (I mean a demonstrative map modelling)
+Insight for the sales and operation team: "What panel should I be selling in Riyadh versus Jeddah for maximum customer value?"
+
+3. The Efficiency vs. Heat Trade-Off
+Since extreme heat is a major challenge in the KSA, this analysis will reveal which panel technology is the most resilient.
+Good for both Visualization and modelling.
+Good for marketing team: "Our Monocrystalline panels lose only X% efficiency at 45°C, while Polycrystalline panels lose Y%,".
+
+Your Narrative for the Presentation
+This chart is your evidence. Here is how you present it:
+
+Acknowledge Their Point: "You are absolutely right. The data shows that, on average, Monocrystalline panels produce the most power. But that's not the full story. The question is, how do we protect that performance and get the most value from any panel we install, especially in the demanding climate of Saudi Arabia?"
+Introduce the Evidence: (Show the bar chart you just created). "This is where the installation strategy becomes critical. We analyzed the performance of each panel type on days where the temperature was 35°C or higher. The blue bars represent ground-mounted systems, and the orange bars are rooftop systems."
+State the Insight Clearly: "As you can see, for every single panel type, the ground-mounted system (blue) consistently produces more energy than its rooftop-mounted counterpart. This performance uplift isn't trivial."
+Explain the "Why": "The reason is better ventilation. Ground-mounted panels allow for air to circulate on all sides, dissipating heat more effectively. A panel on a hot roof gets 'baked' from above by the sun and from below by the roof surface, which raises its operating temperature and hurts its output."
+Deliver the Counter-Argument: "This means that while a Monocrystalline panel is the top performer, a ground-mounted Polycrystalline panel might be a more cost-effective and higher-performing choice than a rooftop-mounted Monocrystalline panel in certain high-heat scenarios. It gives you flexibility in project design and budgeting without compromising as much on real-world output."
